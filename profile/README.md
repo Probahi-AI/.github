@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.probahicraft.com" target="_blank">
+  <a href="https://www.probahicraft.com">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
