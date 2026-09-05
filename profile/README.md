@@ -1,6 +1,16 @@
 <div align="center">
   <a href="https://www.probahicraft.com" target="_blank">
-    <img src="https://www.probahicraft.com/logo-full.png" alt="ProbahiCraft" width="260" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Probahi-AI/.github/main/profile/assets/logo-full-dark.png"
+      />
+      <img
+        src="https://raw.githubusercontent.com/Probahi-AI/.github/main/profile/assets/logo-full.png"
+        alt="ProbahiCraft"
+        width="260"
+      />
+    </picture>
   </a>
 
   <h3 align="center">ProbahiCraft</h3>
