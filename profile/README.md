@@ -21,7 +21,7 @@
     We build the business systems companies own outright, with AI doing the
     work rather than the talking.
     <br />
-    Ten connected systems on one platform — bought once, not rented per seat.
+    Ten connected systems on one platform. Bought once, not rented per seat.
     <br />
     <br />
     <a href="https://www.probahicraft.com"><strong>probahicraft.com &raquo;</strong></a>
@@ -38,37 +38,38 @@ Ten systems on one platform, not ten tools to integrate. The chatbot knows the
 stock, the CRM knows the booking, and nothing needs syncing because nothing is
 separate.
 
-- 🧠 **AI-Powered CRM** — your customer database that actually thinks
-- 📊 **AI KPI Scoring** — know who's performing before the month ends
-- ⚙️ **AI Workflow Automation** — stop doing the same task two hundred times a day
-- 📥 **All-in-One Omnichannel Inbox** — Facebook, WhatsApp, Instagram, email, SMS and live chat on one screen
-- 🤖 **AI Agents** — digital staff that work your process, around the clock
-- 💬 **AI Chatbot** — answers customers in seconds, at 3 AM, in their language
-- 🛒 **E-commerce** — a storefront wired into everything else you run
-- 🧾 **POS** — the counter, connected
-- 📅 **Booking System** — fill the calendar while you sleep
-- 🎓 **School Management System** — the whole school office, on one roll
+- **AI-Powered CRM:** your customer database that actually thinks.
+- **AI KPI Scoring:** know who's performing before the month ends.
+- **AI Workflow Automation:** stop doing the same task two hundred times a day.
+- **All-in-One Omnichannel Inbox:** Facebook, WhatsApp, Instagram, email, SMS
+  and live chat on one screen.
+- **AI Agents:** digital staff that work your process, around the clock.
+- **AI Chatbot:** answers customers in seconds, at 3 AM, in their language.
+- **E-commerce:** a storefront wired into everything else you run.
+- **POS:** the counter, connected.
+- **Booking System:** fill the calendar while you sleep.
+- **School Management System:** the whole school office, on one roll.
 
 Every one of them is playable as a live demo on
-[the platform pages](https://www.probahicraft.com/platform) — no signup, no
+[the platform pages](https://www.probahicraft.com/platform). No signup, no
 sales call first.
 
 ### Products of our own
 
-- **Bechakena** — a Bengali-first sales and ledger app for small shops.
+- **Bechakena:** a Bengali-first sales and ledger app for small shops.
   Photograph the paper records you already keep, the app reads them, you
   confirm, and it is in the books. *In development.*
-- **ProbahiCraft Agents** — a business describes what it needs in a chat, and
-  we build, host and run a custom AI agent that embeds on their own site. They
-  get the agent, we run everything behind it. *In development.*
+- **ProbahiCraft Agents:** a business describes what it needs in a chat, and we
+  build, host and run a custom AI agent that embeds on their own site. They get
+  the agent, we run everything behind it. *In development.*
 
 ### How we work
 
-- **Own it, don't rent it.** One-time investment, no per-seat tax. The
-  platform is yours, the data is yours, hosted where you choose.
-- **Measured, not assumed.** Accessibility, bundle size and layout are gated
-  in CI, not reviewed by eye. A gate that has never been seen to fail is not
-  known to work, so we mutation-test the ones that matter.
+- **Own it, don't rent it.** One-time investment, no per-seat tax. The platform
+  is yours, the data is yours, hosted where you choose.
+- **Measured, not assumed.** Accessibility, bundle size and layout are gated in
+  CI, not reviewed by eye. A gate that has never been seen to fail is not known
+  to work, so we mutation-test the ones that matter.
 - **Decisions are written down at the site of the fix.** If an approach was
   tried and cut, the code says why, so nobody re-derives it six months later.
 - **We will tell you what we would not build.** If buying something off the
@@ -84,13 +85,13 @@ What we reach for most, never a limit. We pick per project.
 
 ### Where we are
 
-Dhaka, Bangladesh — working with clients here and abroad.
+Dhaka, Bangladesh. We work with clients here and abroad.
 
 ### Let's build something
 
 Have something you are running on six systems that do not talk to each other?
 We would like to hear about it.
 
-✉️ [contact@probahicraft.com](mailto:contact@probahicraft.com) &nbsp;·&nbsp; 💬 [WhatsApp](https://wa.me/8801812381128) &nbsp;·&nbsp; 🌐 [probahicraft.com](https://www.probahicraft.com)
+[contact@probahicraft.com](mailto:contact@probahicraft.com) &nbsp;·&nbsp; [WhatsApp](https://wa.me/8801812381128) &nbsp;·&nbsp; [probahicraft.com](https://www.probahicraft.com)
 
 [LinkedIn](https://www.linkedin.com/company/probahicraft) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/probahicraft) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/probahicraft/) &nbsp;·&nbsp; [Threads](https://www.threads.com/@probahicraft)
